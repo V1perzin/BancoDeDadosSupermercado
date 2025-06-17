@@ -10,5 +10,5 @@ No projeto já estão inclusos:
   - Movimentação do produto
   - Transação do produto
 
-Foram feitas adições em todas as tabelas, então consultas, delete e update estão disponíveis.
+Foram feitas adições em todas as tabelas, entre elas consultas, delete e update estão disponíveis.
 Foi feito também uma consulta de inner join para verificar os produtos e quantidades entraram e sairam.
